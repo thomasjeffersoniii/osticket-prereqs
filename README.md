@@ -49,9 +49,10 @@ This screenshot demonstrates the configuration of Internet Information Services 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1904" height="994" alt="Screenshot 2026-05-25 113646" src="https://github.com/user-attachments/assets/6c287dee-fbd7-413a-badd-590e643afa68" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows the successfully deployed and operational osTicket help desk system running within the browser. Following installation of IIS, PHP, MySQL, and required application dependencies, osTicket was configured and connected to its backend database. The successful deployment verified proper integration between cloud infrastructure, web services, database services, and the ticket management platform.
 </p>
 <br />
